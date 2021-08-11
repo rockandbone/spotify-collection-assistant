@@ -1,0 +1,11 @@
+collecting
+1. ensure all albums in release radar are for artists being followed not just mentioned
+2. ensure all albums are not already loved
+3. ensure albums for all tracks are release in current year
+4. love and add albums for all tracks to collected list
+
+discovering
+1. ensure not already following artist on the album (unless if just mentioned)
+2. user: listen & cull anything that sucks
+3. follow all remaining artists
+4. love and add albums for all tracks to discovered list
